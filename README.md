@@ -1,3 +1,3 @@
 # Learning-Git
 This is my first git repo<br>
-Author- Aman
+Author- Aman (Aman Aggarwal)
